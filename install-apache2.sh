@@ -8,6 +8,6 @@ sudo apt-get install -y mysql-server
 echo "Installasi Selesai"
 
 git clone https://github.com/mahesadhanaa/sosial-media.git
-sudo rm /var/www/html/*
+# sudo rm /var/www/html/*
 sudo rm -R /var/www/html/*
 sudo mv sosial-media/* /var/www/html
