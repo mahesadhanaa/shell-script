@@ -3,8 +3,8 @@ echo "Menyiapkan Installasi Web server"
 sudo apt-get update
 echo "Melakukan Installasi Webserver"
 sudo apt-get install -y apache2 php php-mysql
-#echo "Melakukan Installasi Database Server"
-#sudo apt-get install -y mysql-server
+echo "Melakukan Installasi Database Server"
+sudo apt-get install -y mysql-server
 echo "Installasi Selesai"
 
 apt-get install unzip
