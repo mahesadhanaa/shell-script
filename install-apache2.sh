@@ -5,7 +5,7 @@ echo "Melakukan Installasi Webserver"
 #sudo apt-get install -y apache2 php php-mysql
 echo "Melakukan Installasi Database Server"
 #sudo apt-get install -y mysql-server
-echo "Installasi Selesai itu aja jancuk loh"
+echo "Installasi Selesai itu aja jancuk lohjsjs"
 
 #git clone https://github.com/mahesadhanaa/sosial-media.git
 # sudo rm /var/www/html/*
