@@ -12,3 +12,4 @@ echo "Installasi Selesai itu aja jancukkkk ok tgcestg"
 # sudo rm /var/www/html/*
 #sudo rm -R /var/www/html/*
 #sudo mv sosial-media/* /var/www/html
+echo "apa"
