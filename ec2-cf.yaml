@@ -1,4 +1,4 @@
-Type: AWS::EC2::Instance
+Type: AWS::EC2::Instancee
 Properties: 
   AdditionalInfo: String
   Affinity: String
