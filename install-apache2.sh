@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "Menyiapkan Installasi Web server"
+echo "Menyiapkan Installasi Web serverr"
 #sudo apt-get update
 echo "Melakukan Installasi Webserver"
 #sudo apt-get install -y apache2 php php-mysql
