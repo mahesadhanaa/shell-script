@@ -12,4 +12,9 @@ echo "Installasi Selesai itu aja jancukkkk ok tgcestgada"
 #git clone https://github.com/mahesadhanaa/sosial-media.git
 # sudo rm /var/www/html/*
 #sudo rm -R /var/www/html/*
+<<<<<<< HEAD
 #sudo mv sosial-media/* /var/www/htm
+=======
+#sudo mv sosial-media/* /var/www/html
+echo "apa aja dah"
+>>>>>>> 33cff746b11da16b41b684388c4eb5eb579d2734
