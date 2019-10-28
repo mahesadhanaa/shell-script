@@ -6,8 +6,6 @@ echo "Melakukan Installasi Webserver"
 echo "Melakukan Installasi Database Server"
 #sudo apt-get install -y mysql-server
 echo "Installasi Selesai itu aja jancuk yaa"
-echo "Installasi Selesai itu aja jancukkkk ok tgcestcssc"
-echo "Installasi Selesai itu aja jancukkkk ok tgcestgada juga"
 
 #git clone https://github.com/mahesadhanaa/sosial-media.git
 # sudo rm /var/www/html/*
